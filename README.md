@@ -6,6 +6,17 @@ Last updated: July 3, 2026
 
 ## Website And App Links
 
+### Confirmed Live Websites
+
+| Website | Link | Status | Notes |
+| --- | --- | --- | --- |
+| The Havers ENT LLC | https://thehaversentllc.com/ | Live | Main Havers ENT website. |
+| Dominic Nixon | https://dominicnixon.com/ | Live | Dominic Nixon public website. |
+| DJ Dobbs | https://djdobbs.com | Live | Artist website. |
+| Blood Brothers Lifestyle | https://bloodbrotherslifestyle.com | Live | Brand/lifestyle website connected to the Havers project portfolio. |
+
+### Project Surfaces
+
 | Project | Link | Status | Notes |
 | --- | --- | --- | --- |
 | Havers ENT Ticketing and QR Check-In App | Link needed | Built and in testing | Event ticketing/check-in workflow with QR scanning, attendee status, duplicate-scan handling, admin views, and check-in history. |
@@ -27,9 +38,9 @@ Add new published links in this format:
 - Live URL for the ticketing and QR check-in app.
 - Public responder link for the artist signup form, if it should be portfolio-visible.
 - Public responder link for the vendor signup form, if it should be portfolio-visible.
-- Published artist All-About-Me page URLs.
+- More published artist All-About-Me page URLs.
 - Published video walkthrough or demo link for the check-in app.
-- Final festival landing page or custom-domain URL, if created.
+- Final festival landing page or custom-domain URL, if separate from the main Havers ENT website.
 
 ## Privacy Note
 
